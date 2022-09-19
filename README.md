@@ -1,3 +1,7 @@
+
+
+
+
 # vue-project
 
 ## Project setup
@@ -15,10 +19,5 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 페이지 설정
+Home | About | databinding | databinding2 | NestedComponent | ParentComponent | Kakaologin |
