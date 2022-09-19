@@ -4,6 +4,10 @@
 
 # vue-project
 
+## 페이지 설정
+```
+Home | About | databinding | databinding2 | NestedComponent | ParentComponent | Kakaologin |
+```
 ## Project setup
 ```
 npm install
@@ -19,5 +23,3 @@ npm run serve
 npm run build
 ```
 
-### 페이지 설정
-Home | About | databinding | databinding2 | NestedComponent | ParentComponent | Kakaologin |
